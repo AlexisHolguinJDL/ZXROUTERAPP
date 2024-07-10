@@ -1,0 +1,7 @@
+<mvc:View controllerName="com.idom.zxrouterbtp.controller.Main" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+	<Shell id="shell">
+		<Page id="page" title="{i18n>title}">
+			<content></content>
+		</Page>
+	</Shell>
+</mvc:View>
